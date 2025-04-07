@@ -31,7 +31,7 @@ document
     try {
       await createUserWithEmailAndPassword(auth, email, password);
       alert("Signup Successful! Please log in.");
-      //  window.location.href = "/Book/Index";
+      window.location.href = "/Book/Index";
     } catch (error) {
       console.error("Signup Error:", error.message);
       alert("Signup failed: " + error.message);
@@ -46,7 +46,7 @@ document.getElementById("login-form")?.addEventListener("submit", async (e) => {
   try {
     await signInWithEmailAndPassword(auth, email, password);
     alert("Login Successful!");
-    // window.location.href = "/Book/Index";
+    window.location.href = "/Book/Index";
   } catch (error) {
     console.error("Login Error:", error.message);
     alert("Login failed: " + error.message);

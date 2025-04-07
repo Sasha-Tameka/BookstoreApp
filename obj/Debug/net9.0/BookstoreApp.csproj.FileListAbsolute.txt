@@ -108,4 +108,5 @@ C:\Users\sashh\Desktop\BookstoreApp\obj\Debug\net9.0\refint\BookstoreApp.dll
 C:\Users\sashh\Desktop\BookstoreApp\obj\Debug\net9.0\BookstoreApp.pdb
 C:\Users\sashh\Desktop\BookstoreApp\obj\Debug\net9.0\BookstoreApp.genruntimeconfig.cache
 C:\Users\sashh\Desktop\BookstoreApp\obj\Debug\net9.0\ref\BookstoreApp.dll
-C:\Users\sashh\Desktop\BookstoreApp\obj\Debug\net9.0\compressed\6kvg2xr0xa-dnkuc72y1f.gz
+C:\Users\sashh\Desktop\BookstoreApp\obj\Debug\net9.0\compressed\6kvg2xr0xa-okic24dz28.gz
+C:\Users\sashh\Desktop\BookstoreApp\obj\Debug\net9.0\compressed\aupgg9vnsm-5ipweew5fc.gz
