@@ -1,0 +1,49 @@
+<h2>Edit Book</h2>
+
+<form id="edit-book-form">
+    <input type="hidden" id="book-id" name="book-id" />
+
+    <label>Title</label>
+    <input class="form-control" id="title" name="title" required />
+
+    <label>Author</label>
+    <input class="form-control" id="author" name="author" required />
+
+    <label>Price</label>
+    <input class="form-control" id="price" name="price" type="number" step="0.01" required />
+
+    <button type="submit" class="btn btn-success">Update</button>
+    <a href="/Book/Index" class="btn btn-secondary">Cancel</a>
+</form>
+
+<script type="module">
+    import { loadBookForEdit } from "/js/firebase-books.js";
+
+    const bookId = new URLSearchParams(window.location.search).get("id");
+    loadBookForEdit(bookId);
+    document.getElementById("edit-book-form")?.addEventListener("submit", async (e) => {
+    e.preventDefault();
+    
+    const bookId = document.getElementById("book-id").value;
+    const title = document.getElementById("title").value;
+    const author = document.getElementById("author").value;
+    const price = document.getElementById("price").value;
+
+    if (!bookId) {
+        alert("Error: Book ID is missing!");
+        return;
+    }
+
+    try {
+        console.log("🔹 Updating book:", { bookId, title, author, price });  // Debugging ✅
+        
+        await update(ref(database, Books/${bookId}), { title, author, price });
+
+        alert("✅ Book updated successfully!");
+        window.location.href = "/Book/Index";
+    } catch (error) {
+        console.error("❌ Error updating book:", error.message);
+        //alert("Failed to update book: " + error.message);
+    }
+});
+</script>
