@@ -126,6 +126,7 @@ document
     const price = document.getElementById("price").value;
 
     try {
+      console.log("🔹 Updating book:", { bookId, title, author, price });
       await update(ref(database, `Books/${bookId}`), { title, author, price });
 
       alert("Book updated successfully!");

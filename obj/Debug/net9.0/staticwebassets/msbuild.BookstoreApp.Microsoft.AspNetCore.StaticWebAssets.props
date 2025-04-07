@@ -102,8 +102,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>ixx0tvxizl</Fingerprint>
-      <Integrity>OquVuHaJP2+H3Wtt8OieW/LNcklRu9zvZF/vP3vMjMg=</Integrity>
+      <Fingerprint>eqgo1y1b9j</Fingerprint>
+      <Integrity>tqM1Ef7PJ/IAYMuifouWrpEPgBy3H7Py5OFjQ2NCAr8=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\firebase-books.js'))</OriginalItemSpec>

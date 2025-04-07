@@ -37,7 +37,8 @@
     try {
         console.log("🔹 Updating book:", { bookId, title, author, price });  // Debugging ✅
         
-        await update(ref(database, Books/${bookId}), { title, author, price });
+       await update(ref(database, `Books/${bookId}`), { title, author, price });
+
 
         alert("✅ Book updated successfully!");
         window.location.href = "/Book/Index";

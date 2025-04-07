@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4+Qo+HRTDdPan2I7MPk0BlRYaqS07/sS+E4AHIFraf8=",
+  "Hash": "xevxQh+bXsbur/Pipk1bF6wLC3cOg5SXaq6RpV0wV68=",
   "Source": "BookstoreApp",
   "BasePath": "_content/BookstoreApp",
   "Mode": "Default",
@@ -458,12 +458,12 @@
       "OriginalItemSpec": "C:\\Users\\sashh\\Desktop\\BookstoreApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\sashh\\Desktop\\BookstoreApp\\obj\\Debug\\net9.0\\compressed\\aupgg9vnsm-ixx0tvxizl.gz",
+      "Identity": "C:\\Users\\sashh\\Desktop\\BookstoreApp\\obj\\Debug\\net9.0\\compressed\\aupgg9vnsm-eqgo1y1b9j.gz",
       "SourceId": "BookstoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sashh\\Desktop\\BookstoreApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/BookstoreApp",
-      "RelativePath": "js/firebase-books#[.{fingerprint=ixx0tvxizl}]?.js.gz",
+      "RelativePath": "js/firebase-books#[.{fingerprint=eqgo1y1b9j}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -472,8 +472,8 @@
       "RelatedAsset": "C:\\Users\\sashh\\Desktop\\BookstoreApp\\wwwroot\\js\\firebase-books.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "uqpj304esu",
-      "Integrity": "6lMt9a5SR+HDjdJj7YuwDM/UNkp3LeLqzsXOGda/AB8=",
+      "Fingerprint": "ng5uc8ce9p",
+      "Integrity": "J2PXG0/pAxhOwadVz5jYIcZXhleI/30w/AnYsatFrHE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\sashh\\Desktop\\BookstoreApp\\wwwroot\\js\\firebase-books.js"
@@ -1564,8 +1564,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ixx0tvxizl",
-      "Integrity": "OquVuHaJP2+H3Wtt8OieW/LNcklRu9zvZF/vP3vMjMg=",
+      "Fingerprint": "eqgo1y1b9j",
+      "Integrity": "tqM1Ef7PJ/IAYMuifouWrpEPgBy3H7Py5OFjQ2NCAr8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\firebase-books.js"
@@ -4642,13 +4642,13 @@
       ]
     },
     {
-      "Route": "js/firebase-books.ixx0tvxizl.js",
-      "AssetFile": "C:\\Users\\sashh\\Desktop\\BookstoreApp\\obj\\Debug\\net9.0\\compressed\\aupgg9vnsm-ixx0tvxizl.gz",
+      "Route": "js/firebase-books.eqgo1y1b9j.js",
+      "AssetFile": "C:\\Users\\sashh\\Desktop\\BookstoreApp\\obj\\Debug\\net9.0\\compressed\\aupgg9vnsm-eqgo1y1b9j.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000620347395"
+          "Quality": "0.000613120785"
         }
       ],
       "ResponseHeaders": [
@@ -4658,15 +4658,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1611"
+          "Value": "1630"
         },
         {
           "Name": "ETag",
-          "Value": "\"6lMt9a5SR+HDjdJj7YuwDM/UNkp3LeLqzsXOGda/AB8=\""
+          "Value": "\"J2PXG0/pAxhOwadVz5jYIcZXhleI/30w/AnYsatFrHE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 07 Apr 2025 16:31:59 GMT"
+          "Value": "Mon, 07 Apr 2025 16:49:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4686,13 +4686,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"OquVuHaJP2+H3Wtt8OieW/LNcklRu9zvZF/vP3vMjMg=\""
+          "Value": "W/\"tqM1Ef7PJ/IAYMuifouWrpEPgBy3H7Py5OFjQ2NCAr8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ixx0tvxizl"
+          "Value": "eqgo1y1b9j"
         },
         {
           "Name": "label",
@@ -4700,12 +4700,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-OquVuHaJP2+H3Wtt8OieW/LNcklRu9zvZF/vP3vMjMg="
+          "Value": "sha256-tqM1Ef7PJ/IAYMuifouWrpEPgBy3H7Py5OFjQ2NCAr8="
         }
       ]
     },
     {
-      "Route": "js/firebase-books.ixx0tvxizl.js",
+      "Route": "js/firebase-books.eqgo1y1b9j.js",
       "AssetFile": "C:\\Users\\sashh\\Desktop\\BookstoreApp\\wwwroot\\js\\firebase-books.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -4715,7 +4715,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4878"
+          "Value": "4955"
         },
         {
           "Name": "Content-Type",
@@ -4723,11 +4723,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"OquVuHaJP2+H3Wtt8OieW/LNcklRu9zvZF/vP3vMjMg=\""
+          "Value": "\"tqM1Ef7PJ/IAYMuifouWrpEPgBy3H7Py5OFjQ2NCAr8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 07 Apr 2025 16:31:59 GMT"
+          "Value": "Mon, 07 Apr 2025 16:49:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4737,7 +4737,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ixx0tvxizl"
+          "Value": "eqgo1y1b9j"
         },
         {
           "Name": "label",
@@ -4745,13 +4745,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-OquVuHaJP2+H3Wtt8OieW/LNcklRu9zvZF/vP3vMjMg="
+          "Value": "sha256-tqM1Ef7PJ/IAYMuifouWrpEPgBy3H7Py5OFjQ2NCAr8="
         }
       ]
     },
     {
-      "Route": "js/firebase-books.ixx0tvxizl.js.gz",
-      "AssetFile": "C:\\Users\\sashh\\Desktop\\BookstoreApp\\obj\\Debug\\net9.0\\compressed\\aupgg9vnsm-ixx0tvxizl.gz",
+      "Route": "js/firebase-books.eqgo1y1b9j.js.gz",
+      "AssetFile": "C:\\Users\\sashh\\Desktop\\BookstoreApp\\obj\\Debug\\net9.0\\compressed\\aupgg9vnsm-eqgo1y1b9j.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4760,7 +4760,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1611"
+          "Value": "1630"
         },
         {
           "Name": "Content-Type",
@@ -4768,11 +4768,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6lMt9a5SR+HDjdJj7YuwDM/UNkp3LeLqzsXOGda/AB8=\""
+          "Value": "\"J2PXG0/pAxhOwadVz5jYIcZXhleI/30w/AnYsatFrHE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 07 Apr 2025 16:31:59 GMT"
+          "Value": "Mon, 07 Apr 2025 16:49:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4790,7 +4790,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ixx0tvxizl"
+          "Value": "eqgo1y1b9j"
         },
         {
           "Name": "label",
@@ -4798,18 +4798,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-6lMt9a5SR+HDjdJj7YuwDM/UNkp3LeLqzsXOGda/AB8="
+          "Value": "sha256-J2PXG0/pAxhOwadVz5jYIcZXhleI/30w/AnYsatFrHE="
         }
       ]
     },
     {
       "Route": "js/firebase-books.js",
-      "AssetFile": "C:\\Users\\sashh\\Desktop\\BookstoreApp\\obj\\Debug\\net9.0\\compressed\\aupgg9vnsm-ixx0tvxizl.gz",
+      "AssetFile": "C:\\Users\\sashh\\Desktop\\BookstoreApp\\obj\\Debug\\net9.0\\compressed\\aupgg9vnsm-eqgo1y1b9j.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000620347395"
+          "Quality": "0.000613120785"
         }
       ],
       "ResponseHeaders": [
@@ -4819,15 +4819,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1611"
+          "Value": "1630"
         },
         {
           "Name": "ETag",
-          "Value": "\"6lMt9a5SR+HDjdJj7YuwDM/UNkp3LeLqzsXOGda/AB8=\""
+          "Value": "\"J2PXG0/pAxhOwadVz5jYIcZXhleI/30w/AnYsatFrHE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 07 Apr 2025 16:31:59 GMT"
+          "Value": "Mon, 07 Apr 2025 16:49:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4847,13 +4847,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"OquVuHaJP2+H3Wtt8OieW/LNcklRu9zvZF/vP3vMjMg=\""
+          "Value": "W/\"tqM1Ef7PJ/IAYMuifouWrpEPgBy3H7Py5OFjQ2NCAr8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-OquVuHaJP2+H3Wtt8OieW/LNcklRu9zvZF/vP3vMjMg="
+          "Value": "sha256-tqM1Ef7PJ/IAYMuifouWrpEPgBy3H7Py5OFjQ2NCAr8="
         }
       ]
     },
@@ -4868,7 +4868,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4878"
+          "Value": "4955"
         },
         {
           "Name": "Content-Type",
@@ -4876,11 +4876,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"OquVuHaJP2+H3Wtt8OieW/LNcklRu9zvZF/vP3vMjMg=\""
+          "Value": "\"tqM1Ef7PJ/IAYMuifouWrpEPgBy3H7Py5OFjQ2NCAr8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 07 Apr 2025 16:31:59 GMT"
+          "Value": "Mon, 07 Apr 2025 16:49:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4890,13 +4890,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-OquVuHaJP2+H3Wtt8OieW/LNcklRu9zvZF/vP3vMjMg="
+          "Value": "sha256-tqM1Ef7PJ/IAYMuifouWrpEPgBy3H7Py5OFjQ2NCAr8="
         }
       ]
     },
     {
       "Route": "js/firebase-books.js.gz",
-      "AssetFile": "C:\\Users\\sashh\\Desktop\\BookstoreApp\\obj\\Debug\\net9.0\\compressed\\aupgg9vnsm-ixx0tvxizl.gz",
+      "AssetFile": "C:\\Users\\sashh\\Desktop\\BookstoreApp\\obj\\Debug\\net9.0\\compressed\\aupgg9vnsm-eqgo1y1b9j.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4905,7 +4905,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1611"
+          "Value": "1630"
         },
         {
           "Name": "Content-Type",
@@ -4913,11 +4913,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6lMt9a5SR+HDjdJj7YuwDM/UNkp3LeLqzsXOGda/AB8=\""
+          "Value": "\"J2PXG0/pAxhOwadVz5jYIcZXhleI/30w/AnYsatFrHE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 07 Apr 2025 16:31:59 GMT"
+          "Value": "Mon, 07 Apr 2025 16:49:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4935,7 +4935,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-6lMt9a5SR+HDjdJj7YuwDM/UNkp3LeLqzsXOGda/AB8="
+          "Value": "sha256-J2PXG0/pAxhOwadVz5jYIcZXhleI/30w/AnYsatFrHE="
         }
       ]
     },

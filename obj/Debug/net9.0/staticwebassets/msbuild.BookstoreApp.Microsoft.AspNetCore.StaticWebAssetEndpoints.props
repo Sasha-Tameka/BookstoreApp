@@ -60,17 +60,17 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"okic24dz28"},{"Name":"integrity","Value":"sha256-\u002BLSg9u2\u002Bi8TfjwTlKiDF7j05TUEU9uydNnwCcBY4Lj0="},{"Name":"label","Value":"_content/BookstoreApp/js/firebase-auth.js"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1747"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022\u002BLSg9u2\u002Bi8TfjwTlKiDF7j05TUEU9uydNnwCcBY4Lj0=\u0022"},{"Name":"Last-Modified","Value":"Mon, 07 Apr 2025 16:09:50 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/BookstoreApp/js/firebase-books.ixx0tvxizl.js">
+    <StaticWebAssetEndpoint Include="_content/BookstoreApp/js/firebase-books.eqgo1y1b9j.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\firebase-books.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ixx0tvxizl"},{"Name":"integrity","Value":"sha256-OquVuHaJP2\u002BH3Wtt8OieW/LNcklRu9zvZF/vP3vMjMg="},{"Name":"label","Value":"_content/BookstoreApp/js/firebase-books.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4878"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022OquVuHaJP2\u002BH3Wtt8OieW/LNcklRu9zvZF/vP3vMjMg=\u0022"},{"Name":"Last-Modified","Value":"Mon, 07 Apr 2025 16:31:59 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"eqgo1y1b9j"},{"Name":"integrity","Value":"sha256-tqM1Ef7PJ/IAYMuifouWrpEPgBy3H7Py5OFjQ2NCAr8="},{"Name":"label","Value":"_content/BookstoreApp/js/firebase-books.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4955"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022tqM1Ef7PJ/IAYMuifouWrpEPgBy3H7Py5OFjQ2NCAr8=\u0022"},{"Name":"Last-Modified","Value":"Mon, 07 Apr 2025 16:49:11 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/BookstoreApp/js/firebase-books.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\firebase-books.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-OquVuHaJP2\u002BH3Wtt8OieW/LNcklRu9zvZF/vP3vMjMg="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4878"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022OquVuHaJP2\u002BH3Wtt8OieW/LNcklRu9zvZF/vP3vMjMg=\u0022"},{"Name":"Last-Modified","Value":"Mon, 07 Apr 2025 16:31:59 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-tqM1Ef7PJ/IAYMuifouWrpEPgBy3H7Py5OFjQ2NCAr8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4955"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022tqM1Ef7PJ/IAYMuifouWrpEPgBy3H7Py5OFjQ2NCAr8=\u0022"},{"Name":"Last-Modified","Value":"Mon, 07 Apr 2025 16:49:11 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/BookstoreApp/js/site.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
