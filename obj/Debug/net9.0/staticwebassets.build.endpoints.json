@@ -1493,6 +1493,304 @@
       ]
     },
     {
+      "Route": "js/firebase-bookNotAuth.js",
+      "AssetFile": "js/firebase-bookNotAuth.js.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001285347044"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "777"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PvnPkBSzcWa9RO9UDyz8GJN6XM+iKHqWnnmo12uHgJg=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"TC5aWbLEOABgqdKp2PNa43b1zdQPhI6D6GnH6WO4dCg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Apr 2025 13:09:38 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TC5aWbLEOABgqdKp2PNa43b1zdQPhI6D6GnH6WO4dCg="
+        }
+      ]
+    },
+    {
+      "Route": "js/firebase-bookNotAuth.js",
+      "AssetFile": "js/firebase-bookNotAuth.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1675"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TC5aWbLEOABgqdKp2PNa43b1zdQPhI6D6GnH6WO4dCg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Apr 2025 13:09:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TC5aWbLEOABgqdKp2PNa43b1zdQPhI6D6GnH6WO4dCg="
+        }
+      ]
+    },
+    {
+      "Route": "js/firebase-bookNotAuth.js.gz",
+      "AssetFile": "js/firebase-bookNotAuth.js.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "777"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PvnPkBSzcWa9RO9UDyz8GJN6XM+iKHqWnnmo12uHgJg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Apr 2025 13:09:38 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PvnPkBSzcWa9RO9UDyz8GJN6XM+iKHqWnnmo12uHgJg="
+        }
+      ]
+    },
+    {
+      "Route": "js/firebase-bookNotAuth.k6uabf3v2s.js",
+      "AssetFile": "js/firebase-bookNotAuth.js.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001285347044"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "777"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PvnPkBSzcWa9RO9UDyz8GJN6XM+iKHqWnnmo12uHgJg=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"TC5aWbLEOABgqdKp2PNa43b1zdQPhI6D6GnH6WO4dCg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Apr 2025 13:09:38 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k6uabf3v2s"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TC5aWbLEOABgqdKp2PNa43b1zdQPhI6D6GnH6WO4dCg="
+        },
+        {
+          "Name": "label",
+          "Value": "js/firebase-bookNotAuth.js"
+        }
+      ]
+    },
+    {
+      "Route": "js/firebase-bookNotAuth.k6uabf3v2s.js",
+      "AssetFile": "js/firebase-bookNotAuth.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1675"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TC5aWbLEOABgqdKp2PNa43b1zdQPhI6D6GnH6WO4dCg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Apr 2025 13:09:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k6uabf3v2s"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TC5aWbLEOABgqdKp2PNa43b1zdQPhI6D6GnH6WO4dCg="
+        },
+        {
+          "Name": "label",
+          "Value": "js/firebase-bookNotAuth.js"
+        }
+      ]
+    },
+    {
+      "Route": "js/firebase-bookNotAuth.k6uabf3v2s.js.gz",
+      "AssetFile": "js/firebase-bookNotAuth.js.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "777"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PvnPkBSzcWa9RO9UDyz8GJN6XM+iKHqWnnmo12uHgJg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Apr 2025 13:09:38 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k6uabf3v2s"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PvnPkBSzcWa9RO9UDyz8GJN6XM+iKHqWnnmo12uHgJg="
+        },
+        {
+          "Name": "label",
+          "Value": "js/firebase-bookNotAuth.js.gz"
+        }
+      ]
+    },
+    {
       "Route": "js/firebase-books.eqgo1y1b9j.js",
       "AssetFile": "js/firebase-books.js.gz",
       "Selectors": [

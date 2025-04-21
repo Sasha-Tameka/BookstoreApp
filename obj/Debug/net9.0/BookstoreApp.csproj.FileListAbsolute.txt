@@ -115,3 +115,4 @@ C:\Users\sashh\Desktop\BookstoreApp\bin\Debug\net9.0\System.Reactive.Interfaces.
 C:\Users\sashh\Desktop\BookstoreApp\bin\Debug\net9.0\System.Reactive.Linq.dll
 C:\Users\sashh\Desktop\BookstoreApp\bin\Debug\net9.0\System.Reactive.PlatformServices.dll
 C:\Users\sashh\Desktop\BookstoreApp\obj\Debug\net9.0\compressed\aupgg9vnsm-eqgo1y1b9j.gz
+C:\Users\sashh\Desktop\BookstoreApp\obj\Debug\net9.0\compressed\pnf06fv9fr-k6uabf3v2s.gz

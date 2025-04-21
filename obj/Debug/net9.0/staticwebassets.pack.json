@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\js\\firebase-auth.js"
     },
     {
+      "Id": "C:\\Users\\sashh\\Desktop\\BookstoreApp\\wwwroot\\js\\firebase-bookNotAuth.js",
+      "PackagePath": "staticwebassets\\js\\firebase-bookNotAuth.js"
+    },
+    {
       "Id": "C:\\Users\\sashh\\Desktop\\BookstoreApp\\wwwroot\\js\\firebase-books.js",
       "PackagePath": "staticwebassets\\js\\firebase-books.js"
     },

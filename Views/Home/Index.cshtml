@@ -3,6 +3,32 @@
 }
 
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <h1 class="display-4">Welcome to BookstoreApp</h1>
+
+
+    <p>
+        This is the list of books:
+      
+    </p>
+
+    <h4 class="display-4">
+        For adding new books or edit or delete any books you need to Authenticate
+    </h4>
+
+    <h2 >Book List</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Author</th>
+            <th>Price</th>
+        </tr>
+    </thead>
+     <tbody id="books-table-body">
+        <!-- Books will be loaded here dynamically -->
+    </tbody>
+</table>
 </div>
+
+<script type="module" src="/js/firebase-bookNotAuth.js"></script>
