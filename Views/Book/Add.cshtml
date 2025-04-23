@@ -23,6 +23,39 @@
             min-height: 100vh;
             padding-top: 80px; /* Prevent navbar overlap */
         }
+            /* Navbar styling */
+        .navbar {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            background: linear-gradient(to right, #a78bfa, #60a5fa); /* Match body background */
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 1rem 2rem;
+            z-index: 1000; /* Keeps navbar on top of other content */
+        }
+
+        /* Navbar title styling */
+        .nav-brand {
+            font-weight: bold;
+            color: #ffffff;
+            font-size: 1.25rem;
+        }
+
+        /* Navbar link container */
+        .nav-links a {
+            margin-left: 1.5rem;
+            text-decoration: none;
+            color: #f1f5f9;
+            font-weight: 500;
+        }
+
+        /* Navbar link hover effect */
+        .nav-links a:hover {
+            color: #ffffff;
+        }
     </style>
 </head>
 <body>
