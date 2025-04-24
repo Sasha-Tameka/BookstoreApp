@@ -1,3 +1,118 @@
+@{
+    ViewData["Title"] = "Edit Book";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewData["Title"] - 📚 BookHive</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(to right, #a78bfa, #60a5fa);
+            color: #fff;
+            min-height: 100vh;
+            padding-top: 80px;
+        }
+
+        .navbar {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            background: linear-gradient(to right, #a78bfa, #60a5fa);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 1rem 2rem;
+            z-index: 1000;
+        }
+
+        .nav-brand {
+            font-weight: bold;
+            color: #ffffff;
+            font-size: 1.50rem;
+        }
+
+        .nav-links a {
+            margin-left: 1.5rem;
+            text-decoration: none;
+            color: #f1f5f9;
+            font-weight: 500;
+        }
+
+        .nav-links a:hover {
+            color: #ffffff;
+        }
+
+        h2 {
+            text-align: center;
+            margin: 2rem 0 1rem;
+        }
+
+        form {
+            max-width: 500px;
+            margin: 2rem auto;
+            background-color: rgba(255, 255, 255, 0.1);
+            padding: 2rem;
+            border-radius: 12px;
+        }
+
+        label {
+            display: block;
+            margin: 1rem 0 0.5rem;
+            font-weight: 600;
+        }
+
+        input.form-control {
+            width: 100%;
+            padding: 0.6rem;
+            border: none;
+            border-radius: 8px;
+        }
+
+        button, a.btn {
+            margin-top: 1rem;
+            padding: 0.6rem 1.2rem;
+            border-radius: 8px;
+            font-weight: bold;
+            text-decoration: none;
+            display: inline-block;
+        }
+
+        .btn-success {
+            background-color: #059669;
+            color: white;
+            font-size: medium;
+        }
+
+        .btn-secondary {
+            background-color: #6b7280;
+            color: white;
+            margin-left: 1rem;
+            font-size: small;
+        }
+    </style>
+</head>
+<body>
+    <!-- Navbar -->
+    <div class="navbar">
+        <div class="nav-brand">📚 BookHive</div>
+        <div class="nav-links">
+            <a href="/">Home</a>
+            <a href="/Book/Index">Book List</a>
+            
+        </div>
+    </div>
+
 <h2>Edit Book</h2>
 
 <form id="edit-book-form">
@@ -48,3 +163,5 @@
     }
 });
 </script>
+</body>
+</html>
