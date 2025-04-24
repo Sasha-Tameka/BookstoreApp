@@ -55,18 +55,15 @@ Sign up or log in
 Add, view, edit, or delete books
 ⚙ Project Structure
 
-/Controllers      --> C# Controllers (AuthController, BookController,HomeController)
-/Models           --> Book.cs, UserModel.cs (Model)
-/Views            --> Razor pages for Book ,Auth and Home
-/wwwroot          --> Static assets (CSS, JS)-> In JS there is AuthFirebase and RealTime DB
-Startup.cs        --> Middleware and routing setup
-Program.cs        --> App entry point
+/Controllers --> C# Controllers (AuthController, BookController,HomeController)
+/Models --> Book.cs, UserModel.cs (Model)
+/Views --> Razor pages for Book ,Auth and Home
+/wwwroot --> Static assets (CSS, JS)-> In JS there is AuthFirebase and RealTime DB
+Startup.cs --> Middleware and routing setup
+Program.cs --> App entry point
 ⚠ Known Challenges
 
 Securely linking Firebase Authentication with MVC sessions
 Managing asynchronous Firebase calls from Razor Views
 Ensuring real-time updates if using Realtime Database
 🎥 Demo
-dhdd
-
-
