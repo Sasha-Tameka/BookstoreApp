@@ -84,19 +84,23 @@
             width: 90%;
             margin: 2rem auto;
             border-collapse: collapse;
-            background-image: url("/css/images/books1.jpg");
+            background-image: url("/css/images/book2.jpg");
             background-size: cover;
             background-position: center;
+            color: #ffffff;
             border-radius: 12px;
             overflow: hidden;
-            backdrop-filter: brightness(0.8);
+            backdrop-filter: brightness(0.8); /* optional: dims the background a little */
         }
 
-        .table th, .table td {
-            background-color: rgba(0, 0, 0, 0.4);
+
+        .table td, .table th {
+            background-color: rgba(0, 0, 0, 0.4); /* Optional: for contrast */
+            color: white;
             padding: 1rem;
             text-align: left;
         }
+
 
         .table thead {
             background-color: rgba(255, 255, 255, 0.2);
@@ -109,6 +113,11 @@
         .table tbody tr:hover {
             background-color: rgba(255, 255, 255, 0.15);
         }
+
+        .table th {
+            font-weight: bold;
+        }
+
 
     </style>
 </head>
@@ -128,8 +137,8 @@
 
     <p>
         To add, edit, or delete books from your personal collection, please make sure to 
-        <a href="/Account/Register" class="inline-link">sign up</a> or 
-        <a href="/Account/Login" class="inline-link">login</a>.
+        <a class ="inline-link" asp-controller="Auth" asp-action="Signup">sign up</a> or 
+        <a class="inline-link" asp-controller="Auth" asp-action="Login">login</a>.
     </p>
 
     <p>

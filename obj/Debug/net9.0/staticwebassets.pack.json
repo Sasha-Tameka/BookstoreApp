@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\BookstoreApp.gx284c574z.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\sashh\\Desktop\\BookstoreApp\\wwwroot\\css\\images\\book2.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\book2.jpg"
+    },
+    {
       "Id": "C:\\Users\\sashh\\Desktop\\BookstoreApp\\wwwroot\\css\\images\\books.jpg",
       "PackagePath": "staticwebassets\\css\\images\\books.jpg"
     },
