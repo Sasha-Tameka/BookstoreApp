@@ -32,7 +32,6 @@ C:\Users\sashh\Desktop\BookstoreApp\obj\Debug\net9.0\BookstoreApp.sourcelink.jso
 C:\Users\sashh\Desktop\BookstoreApp\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\sashh\Desktop\BookstoreApp\obj\Debug\net9.0\scopedcss\bundle\BookstoreApp.styles.css
 C:\Users\sashh\Desktop\BookstoreApp\obj\Debug\net9.0\scopedcss\projectbundle\BookstoreApp.bundle.scp.css
-C:\Users\sashh\Desktop\BookstoreApp\obj\Debug\net9.0\compressed\35f9m3vu9r-b9sayid5wm.gz
 C:\Users\sashh\Desktop\BookstoreApp\obj\Debug\net9.0\compressed\hm2b77cpg7-61n19gt1b8.gz
 C:\Users\sashh\Desktop\BookstoreApp\obj\Debug\net9.0\compressed\vvdixown8v-g50yxiafku.gz
 C:\Users\sashh\Desktop\BookstoreApp\obj\Debug\net9.0\compressed\6kvg2xr0xa-okic24dz28.gz
@@ -118,3 +117,4 @@ C:\Users\sashh\Desktop\BookstoreApp\bin\Debug\net9.0\BookstoreApp.runtimeconfig.
 C:\Users\sashh\Desktop\BookstoreApp\bin\Debug\net9.0\BookstoreApp.pdb
 C:\Users\sashh\Desktop\BookstoreApp\obj\Debug\net9.0\BookstoreApp.genruntimeconfig.cache
 C:\Users\sashh\Desktop\BookstoreApp\obj\Debug\net9.0\ref\BookstoreApp.dll
+C:\Users\sashh\Desktop\BookstoreApp\obj\Debug\net9.0\compressed\35f9m3vu9r-3y8m7uxm6z.gz

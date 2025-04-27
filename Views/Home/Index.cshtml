@@ -1,5 +1,5 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "HomePage";
 }
 
 <!DOCTYPE html>
@@ -23,7 +23,34 @@
             padding: 2rem;
             text-align: center;
         }
+        .navbar {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            background: linear-gradient(to right, #a78bfa, #60a5fa);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 1rem 2rem;
+            z-index: 1000;
+        }
+        .nav-brand {
+            font-weight: bold;
+            color: #ffffff;
+            font-size: 1.50rem;
+        }
 
+        .nav-links a {
+            margin-left: 1.5rem;
+            text-decoration: none;
+            color: #f1f5f9;
+            font-weight: 500;
+        }
+
+        .nav-links a:hover {
+            color: #ffffff;
+        }
         .auth-buttons {
             margin-bottom: 2rem;
         }
@@ -132,6 +159,18 @@
     </style>
 </head>
 <body>
+     <!-- Navbar -->
+    <div class="navbar">
+        <div class="nav-brand">📚 BookHive</div>
+        <div class="nav-links">
+            <a href="/">Home</a>
+            <a href="/Home/Privacy">Privacy</a>
+        
+        </div>
+    </div>
+<br>
+<br>
+<br>
 
 <div class="text-center">
     <div class="auth-buttons mb-4">
