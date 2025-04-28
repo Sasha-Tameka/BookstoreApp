@@ -8,7 +8,11 @@
     <meta charset="utf-8" />
     <title>@ViewData["Title"] - 📚 BookHive</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap" rel="stylesheet">
     <style>
+       
         * {
             margin: 0;
             padding: 0;
@@ -92,7 +96,10 @@
         }
 
         p {
-            font-size: 1.2rem;
+            font-family: "Kaushan Script", cursive;
+            font-weight: 400;
+            font-style: normal;
+            font-size: 1.5rem;
             margin: 1rem auto;
             max-width: 700px;
         }
@@ -191,6 +198,7 @@
         <a class ="inline-link" asp-controller="Auth" asp-action="Signup">sign up</a> or 
         <a class="inline-link" asp-controller="Auth" asp-action="Login">login</a>.
     </p>
+    <br>
 
     <p>
         Happy reading! 📖✨
