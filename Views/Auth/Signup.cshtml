@@ -9,52 +9,138 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>@ViewData["Title"]</title>
+    <title>Login - 📚 BookHive</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
     <style>
+        
+         * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
         body {
-            background-color: #f8f9fa;
+            background: linear-gradient(to right, #a78bfa, #60a5fa);
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+            margin: 0;
+        }
+
+         /* Navbar styling */
+        .navbar {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            background: linear-gradient(to right, #a78bfa, #60a5fa); /* Match body background */
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 1rem 2rem;
+            z-index: 1000; 
+        }
+
+        /* Navbar title styling */
+        .nav-brand {
+            font-weight: bold;
+            color: #ffffff;
+            font-size: 1.50rem;
+
+        }
+
+        /* Navbar link container */
+        .nav-links a {
+            margin-left: 1.5rem;
+            text-decoration: none;
+            color: #f1f5f9;
+            font-weight: 500;
+        }
+
+        /* Navbar link hover effect */
+        .nav-links a:hover {
+            color: #ffffff;
         }
         .signup-container {
-            max-width: 400px;
-            margin: 50px auto;
-            padding: 30px;
-            background-color: #ffffff;
-            border-radius: 8px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        }
-        .btn-custom {
-            background-color: #007bff;
-            color: white;
-            border: none;
-            border-radius: 25px;
-            padding: 10px 20px;
+            background: whitesmoke;
+            padding: 2rem 2.5rem;
+            border-radius: 15px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
             width: 100%;
-            transition: background-color 0.3s ease;
+            max-width: 400px;
+            text-align: center;
+            margin:2rem auto ;
         }
-        .btn-custom:hover {
-            background-color: #0056b3;
-        }
-        .form-label {
+       
+
+        h2 {
+            color: #4f46e5;
+            margin-bottom: 1.5rem;
             font-weight: bold;
         }
-        .signup-link {
+
+        .form-label {
+            color: #4b5563;
+            font-weight: 500;
+            text-align: left;
             display: block;
-            text-align: center;
-            margin-top: 15px;
-            font-size: 14px;
         }
+
+        .form-control {
+            margin-top: 0.5rem;
+            margin-bottom: 1rem;
+            border-radius: 8px;
+            border: 1px solid #cbd5e1;
+            padding: 0.75rem;
+        }
+
+        .btn-custom {
+            background-color: #4f46e5;
+            color: white;
+            font-weight: bold;
+            padding: 0.75rem;
+            width: 100%;
+            border: none;
+            border-radius: 25px;
+            margin-top: 1rem;
+            transition: background-color 0.3s ease;
+        }
+
+        .btn-custom:hover {
+            background-color: #4338ca;
+        }
+
+        .signup-link {
+            margin-top: 1.5rem;
+            color: #6b7280;
+            font-size: 0.95rem;
+        }
+
         .signup-link a {
-            color: #007bff;
+            color: #4f46e5;
             text-decoration: none;
+            font-weight: 600;
         }
+
         .signup-link a:hover {
             text-decoration: underline;
         }
     </style>
 </head>
 <body>
+
+    <!-- Navbar -->
+    <div class="navbar">
+        <div class="nav-brand">📚 BookHive</div>
+        <div class="nav-links">
+            <a href="/">Home</a>
+            <a href="/Home/Privacy">Privacy</a>
+        </div>
+    </div>
 
 <div class="signup-container">
     <h2 class="text-center mb-4">Sign Up</h2>
