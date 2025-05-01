@@ -1,5 +1,5 @@
 @{
-    ViewData["Title"] = "Book Page";
+    ViewData["Title"] = "Book List";
 }
 
 <!DOCTYPE html>
@@ -8,7 +8,17 @@
     <meta charset="utf-8" />
     <title>@ViewData["Title"] - 📚 BookHive</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&display=swap" rel="stylesheet">
+
+     <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+  />
     <style>
+
+        
         * {
             margin: 0;
             padding: 0;
@@ -55,6 +65,10 @@
         }
 
         h2 {
+            font-family: "Covered By Your Grace", cursive;
+            font-weight: 400;
+            font-style: normal;
+            font-size: 3rem;
             text-align: center;
             margin: 2rem 0 1rem;
         }
@@ -149,11 +163,14 @@
         <div class="nav-brand">📚 BookHive</div>
         <div class="nav-links">
             <a href="/">Home</a>
-            <a href="/Book/Index">Book List</a>
+            <a href="/Home/Privacy">Privacy</a>
+            <a href="/Home/Index">Logout</a>
            
         </div>
     </div>
-<h2>Book List</h2>
+
+</div>
+<h2 class="animate__animated animate__backInRight">Book List</h2>
 <br>
 <a class="btn btn-primary" href="/Book/Add">Add New Book</a>
 

@@ -118,3 +118,5 @@ C:\Users\sashh\Desktop\BookstoreApp\bin\Debug\net9.0\BookstoreApp.pdb
 C:\Users\sashh\Desktop\BookstoreApp\obj\Debug\net9.0\BookstoreApp.genruntimeconfig.cache
 C:\Users\sashh\Desktop\BookstoreApp\obj\Debug\net9.0\ref\BookstoreApp.dll
 C:\Users\sashh\Desktop\BookstoreApp\obj\Debug\net9.0\compressed\35f9m3vu9r-3y8m7uxm6z.gz
+C:\Users\sashh\Desktop\BookstoreApp\bin\Debug\net9.0\package-lock.json
+C:\Users\sashh\Desktop\BookstoreApp\bin\Debug\net9.0\package.json
