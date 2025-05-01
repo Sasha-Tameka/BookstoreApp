@@ -70,3 +70,15 @@ Ensuring real-time updates if using Realtime Database
 
 ## HomePage
 ![Screenshot](wwwroot/css/images/homepage.png)
+## Login
+![Screenshot](wwwroot/css/images/login.png)
+## Signup
+![Screenshot](wwwroot/css/images/privacy.png)
+## Privacy
+![Screenshot](wwwroot/css/images/privacy.png)
+## Edit book
+![Screenshot](wwwroot/css/images/edit.png)
+## Add book
+![Screenshot](wwwroot/css/images/add.png)
+## Booklist
+![Screenshot](wwwroot/css/images/booklist.png)
