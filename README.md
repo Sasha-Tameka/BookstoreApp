@@ -73,7 +73,7 @@ Ensuring real-time updates if using Realtime Database
 ## Login
 ![Screenshot](wwwroot/css/images/login.png)
 ## Signup
-![Screenshot](wwwroot/css/images/privacy.png)
+![Screenshot](wwwroot/css/images/signup.png)
 ## Privacy
 ![Screenshot](wwwroot/css/images/privacy.png)
 ## Edit book
