@@ -69,4 +69,4 @@ Ensuring real-time updates if using Realtime Database
 🎥 Demo
 
 ## HomePage
-![Screenshot](images/homepage.png)
+![Screenshot](/images/homepage.png)
