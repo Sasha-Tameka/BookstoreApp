@@ -67,3 +67,6 @@ Securely linking Firebase Authentication with MVC sessions
 Managing asynchronous Firebase calls from Razor Views
 Ensuring real-time updates if using Realtime Database
 🎥 Demo
+
+## HomePage
+![Screenshot](images/homepage.png)
