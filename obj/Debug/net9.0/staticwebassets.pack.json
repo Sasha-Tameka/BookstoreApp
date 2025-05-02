@@ -5,8 +5,16 @@
       "PackagePath": "staticwebassets\\BookstoreApp.gx284c574z.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\sashh\\Desktop\\BookstoreApp\\wwwroot\\css\\images\\add.png",
+      "PackagePath": "staticwebassets\\css\\images\\add.png"
+    },
+    {
       "Id": "C:\\Users\\sashh\\Desktop\\BookstoreApp\\wwwroot\\css\\images\\book2.jpg",
       "PackagePath": "staticwebassets\\css\\images\\book2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sashh\\Desktop\\BookstoreApp\\wwwroot\\css\\images\\booklist.png",
+      "PackagePath": "staticwebassets\\css\\images\\booklist.png"
     },
     {
       "Id": "C:\\Users\\sashh\\Desktop\\BookstoreApp\\wwwroot\\css\\images\\books.jpg",
@@ -15,6 +23,26 @@
     {
       "Id": "C:\\Users\\sashh\\Desktop\\BookstoreApp\\wwwroot\\css\\images\\books1.jpg",
       "PackagePath": "staticwebassets\\css\\images\\books1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sashh\\Desktop\\BookstoreApp\\wwwroot\\css\\images\\edit.png",
+      "PackagePath": "staticwebassets\\css\\images\\edit.png"
+    },
+    {
+      "Id": "C:\\Users\\sashh\\Desktop\\BookstoreApp\\wwwroot\\css\\images\\homepage.png",
+      "PackagePath": "staticwebassets\\css\\images\\homepage.png"
+    },
+    {
+      "Id": "C:\\Users\\sashh\\Desktop\\BookstoreApp\\wwwroot\\css\\images\\login.png",
+      "PackagePath": "staticwebassets\\css\\images\\login.png"
+    },
+    {
+      "Id": "C:\\Users\\sashh\\Desktop\\BookstoreApp\\wwwroot\\css\\images\\privacy.png",
+      "PackagePath": "staticwebassets\\css\\images\\privacy.png"
+    },
+    {
+      "Id": "C:\\Users\\sashh\\Desktop\\BookstoreApp\\wwwroot\\css\\images\\signup.png",
+      "PackagePath": "staticwebassets\\css\\images\\signup.png"
     },
     {
       "Id": "C:\\Users\\sashh\\Desktop\\BookstoreApp\\wwwroot\\css\\site.css",

@@ -1,5 +1,0 @@
-#ignoring specific file
-.env
-
-#firebase config
-firebase-config.json
